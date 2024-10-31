@@ -34,7 +34,7 @@ To run this code, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EbadShabbir/Logistic_Regression-Binomial-
+    https://github.com/EbadShabbir/Logistic_Regression-Binomial-
    
    
 pip install -r requirements.txt
