@@ -34,7 +34,7 @@ To run this code, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/logistic-regression-social-network-ads.git
+   git clone https://github.com/EbadShabbir/Logistic_Regression-Binomial-
    cd logistic-regression-social-network-ads
    
 pip install -r requirements.txt
